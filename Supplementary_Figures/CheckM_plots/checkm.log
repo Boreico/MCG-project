@@ -1,0 +1,81 @@
+[2024-03-30 14:50:58] INFO: CheckM v1.2.2
+[2024-03-30 14:50:58] INFO: checkm dist_plot --dpi 300 taxonomy_checkM mags/M1201267653.fna dplot plotting_data/tetra_M12012.txt 30
+[2024-03-30 14:50:58] INFO: CheckM data: /home/vlad/drive2/micromamba/envs/CheckM/checkm_data
+[2024-03-30 14:50:58] INFO: [CheckM - dist_plot] Creating GC, CD, and TD distribution plots.
+[2024-03-30 14:50:58] ERROR: Input table format is not correct: mags/M1201267653.fna
+
+[2024-03-30 14:50:58] ERROR: If input is nucleotide contigs, please supply 2 column at least: [genome_id, genome_contigs_file]
+[2024-03-30 14:50:58] ERROR: If input is gene, please supply 3 column at least: [genome_id, genome_contigs_file, genome_genes_file]
+[2024-03-30 15:00:36] INFO: CheckM v1.2.2
+[2024-03-30 15:00:36] INFO: checkm dist_plot --dpi 300 taxonomy_checkM mags dplot tetra_res 30
+[2024-03-30 15:00:36] INFO: CheckM data: /home/vlad/drive2/micromamba/envs/CheckM/checkm_data
+[2024-03-30 15:00:36] INFO: [CheckM - dist_plot] Creating GC, CD, and TD distribution plots.
+[2024-03-30 15:02:18] INFO: CheckM v1.2.2
+[2024-03-30 15:02:18] INFO: checkm dist_plot --dpi 300 taxonomy_checkM mags dplot combined_tetra.tsv 30
+[2024-03-30 15:02:18] INFO: CheckM data: /home/vlad/drive2/micromamba/envs/CheckM/checkm_data
+[2024-03-30 15:02:18] INFO: [CheckM - dist_plot] Creating GC, CD, and TD distribution plots.
+[2024-03-30 15:07:48] INFO: CheckM v1.2.2
+[2024-03-30 15:07:48] INFO: checkm dist_plot --dpi 300 taxonomy_checkM mags dplot join_tetra.tsv 30
+[2024-03-30 15:07:48] INFO: CheckM data: /home/vlad/drive2/micromamba/envs/CheckM/checkm_data
+[2024-03-30 15:07:48] INFO: [CheckM - dist_plot] Creating GC, CD, and TD distribution plots.
+[2024-03-30 15:07:48] INFO: Plotting reference distribution plots for mags/M1026938161.fna (1 of 30)
+[2024-03-30 15:08:01] INFO: Plot written to: dplot/M1026938161.ref_dist_plots.png
+[2024-03-30 15:08:01] INFO: Plotting reference distribution plots for mags/M1080786199.fna (2 of 30)
+[2024-03-30 15:08:12] INFO: Plot written to: dplot/M1080786199.ref_dist_plots.png
+[2024-03-30 15:08:12] INFO: Plotting reference distribution plots for mags/M1126320974.fna (3 of 30)
+[2024-03-30 15:08:23] INFO: Plot written to: dplot/M1126320974.ref_dist_plots.png
+[2024-03-30 15:08:23] INFO: Plotting reference distribution plots for mags/M1145915061.fna (4 of 30)
+[2024-03-30 15:08:35] INFO: Plot written to: dplot/M1145915061.ref_dist_plots.png
+[2024-03-30 15:08:35] INFO: Plotting reference distribution plots for mags/M1150682003.fna (5 of 30)
+[2024-03-30 15:08:46] INFO: Plot written to: dplot/M1150682003.ref_dist_plots.png
+[2024-03-30 15:08:46] INFO: Plotting reference distribution plots for mags/M1195283575.fna (6 of 30)
+[2024-03-30 15:08:58] INFO: Plot written to: dplot/M1195283575.ref_dist_plots.png
+[2024-03-30 15:08:58] INFO: Plotting reference distribution plots for mags/M1201267653.fna (7 of 30)
+[2024-03-30 15:09:11] INFO: Plot written to: dplot/M1201267653.ref_dist_plots.png
+[2024-03-30 15:09:11] INFO: Plotting reference distribution plots for mags/M1209946257.fna (8 of 30)
+[2024-03-30 15:09:22] INFO: Plot written to: dplot/M1209946257.ref_dist_plots.png
+[2024-03-30 15:09:22] INFO: Plotting reference distribution plots for mags/M1212061447.fna (9 of 30)
+[2024-03-30 15:09:34] INFO: Plot written to: dplot/M1212061447.ref_dist_plots.png
+[2024-03-30 15:09:34] INFO: Plotting reference distribution plots for mags/M1236472425.fna (10 of 30)
+[2024-03-30 15:09:45] INFO: Plot written to: dplot/M1236472425.ref_dist_plots.png
+[2024-03-30 15:09:45] INFO: Plotting reference distribution plots for mags/M1263131280.fna (11 of 30)
+[2024-03-30 15:09:57] INFO: Plot written to: dplot/M1263131280.ref_dist_plots.png
+[2024-03-30 15:09:57] INFO: Plotting reference distribution plots for mags/M1267816792.fna (12 of 30)
+[2024-03-30 15:10:08] INFO: Plot written to: dplot/M1267816792.ref_dist_plots.png
+[2024-03-30 15:10:08] INFO: Plotting reference distribution plots for mags/M1315560073.fna (13 of 30)
+[2024-03-30 15:10:19] INFO: Plot written to: dplot/M1315560073.ref_dist_plots.png
+[2024-03-30 15:10:19] INFO: Plotting reference distribution plots for mags/M1334936445.fna (14 of 30)
+[2024-03-30 15:10:31] INFO: Plot written to: dplot/M1334936445.ref_dist_plots.png
+[2024-03-30 15:10:31] INFO: Plotting reference distribution plots for mags/M1357088918.fna (15 of 30)
+[2024-03-30 15:10:42] INFO: Plot written to: dplot/M1357088918.ref_dist_plots.png
+[2024-03-30 15:10:42] INFO: Plotting reference distribution plots for mags/M1485828836.fna (16 of 30)
+[2024-03-30 15:10:52] INFO: Plot written to: dplot/M1485828836.ref_dist_plots.png
+[2024-03-30 15:10:52] INFO: Plotting reference distribution plots for mags/M1536047129.fna (17 of 30)
+[2024-03-30 15:11:04] INFO: Plot written to: dplot/M1536047129.ref_dist_plots.png
+[2024-03-30 15:11:04] INFO: Plotting reference distribution plots for mags/M1561943335.fna (18 of 30)
+[2024-03-30 15:11:15] INFO: Plot written to: dplot/M1561943335.ref_dist_plots.png
+[2024-03-30 15:11:15] INFO: Plotting reference distribution plots for mags/M1572548456.fna (19 of 30)
+[2024-03-30 15:11:27] INFO: Plot written to: dplot/M1572548456.ref_dist_plots.png
+[2024-03-30 15:11:27] INFO: Plotting reference distribution plots for mags/M1586956215.fna (20 of 30)
+[2024-03-30 15:11:37] INFO: Plot written to: dplot/M1586956215.ref_dist_plots.png
+[2024-03-30 15:11:37] INFO: Plotting reference distribution plots for mags/M1645310449.fna (21 of 30)
+[2024-03-30 15:11:48] INFO: Plot written to: dplot/M1645310449.ref_dist_plots.png
+[2024-03-30 15:11:48] INFO: Plotting reference distribution plots for mags/M1677622573.fna (22 of 30)
+[2024-03-30 15:12:01] INFO: Plot written to: dplot/M1677622573.ref_dist_plots.png
+[2024-03-30 15:12:01] INFO: Plotting reference distribution plots for mags/M1695505146.fna (23 of 30)
+[2024-03-30 15:12:12] INFO: Plot written to: dplot/M1695505146.ref_dist_plots.png
+[2024-03-30 15:12:12] INFO: Plotting reference distribution plots for mags/M1730638125.fna (24 of 30)
+[2024-03-30 15:12:23] INFO: Plot written to: dplot/M1730638125.ref_dist_plots.png
+[2024-03-30 15:12:23] INFO: Plotting reference distribution plots for mags/M1837800477.fna (25 of 30)
+[2024-03-30 15:12:33] INFO: Plot written to: dplot/M1837800477.ref_dist_plots.png
+[2024-03-30 15:12:33] INFO: Plotting reference distribution plots for mags/M1929477634.fna (26 of 30)
+[2024-03-30 15:12:44] INFO: Plot written to: dplot/M1929477634.ref_dist_plots.png
+[2024-03-30 15:12:44] INFO: Plotting reference distribution plots for mags/M1939105376.fna (27 of 30)
+[2024-03-30 15:12:56] INFO: Plot written to: dplot/M1939105376.ref_dist_plots.png
+[2024-03-30 15:12:56] INFO: Plotting reference distribution plots for mags/M1970119015.fna (28 of 30)
+[2024-03-30 15:13:07] INFO: Plot written to: dplot/M1970119015.ref_dist_plots.png
+[2024-03-30 15:13:07] INFO: Plotting reference distribution plots for mags/M1973003636.fna (29 of 30)
+[2024-03-30 15:13:18] INFO: Plot written to: dplot/M1973003636.ref_dist_plots.png
+[2024-03-30 15:13:18] INFO: Plotting reference distribution plots for mags/M1989033219.fna (30 of 30)
+[2024-03-30 15:13:29] INFO: Plot written to: dplot/M1989033219.ref_dist_plots.png
+[2024-03-30 15:13:29] INFO: { Current stage: 0:05:41.022 || Total: 0:05:41.022 }
