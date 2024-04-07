@@ -13,7 +13,14 @@ phylophlan_metagenomic -i mags -o phylophlan_output/ppa_m --nproc 4 -n 1 -d CMG2
 # Running CheckM on MAGs (reference Spirochaetales)
 
 mkdir checkm_output_spirochaetales
-bunzip2 mags/* && checkm taxonomy_wf order Spirochaetales mags checkm_output_spirochaetales -t 4
+checkm taxonomy_wf order Spirochaetales mags checkm_output_spirochaetales -t 4
+
+
+# Plotting disriptive plot for each MAG
+
+cat mags/*.fna > combined_mags.fna
+check tetra combined_mags.fna join_tetra.tsv
+checkm dist_plot --dpi 300 checkm_output_spirochaetales mags displot join_tetra.tsv 30
 
 # Running Prokka
 
